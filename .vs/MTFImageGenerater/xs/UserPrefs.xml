@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0A7B305C-C62A-ECA1-600A-C48727C72E74}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MTFImageGenerator.cs">
+    <Files>
+      <File FileName="Assets/Script/MTFImageGenerator.cs" Line="58" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d9e5feaf-ce0d-4646-9551-f3740a5e9809" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
